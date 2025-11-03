@@ -74,31 +74,29 @@ I'm a passionate developer from **Pakistan**, blending **Full Stack AI** with ex
 
 <div align="center">
   
-### 📈 Contribution Analytics
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairXtreme&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</p>
+  ### 📈 Contribution Analytics
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=umairXtreme&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
+  </p>
 
-### 🏆 Profile Insights
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umairXtreme&theme=tokyonight" width="100%" alt="Profile Summary" />
-</p>
+  ### 🏆 Profile Insights
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=umairXtreme&theme=tokyonight" width="100%" alt="Profile Summary" />
+  </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umairXtreme&theme=tokyonight" width="49%" alt="Productive Time" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umairXtreme&theme=tokyonight" width="49%" alt="Repos per Language" />
-</p>
+  <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=umairXtreme&theme=tokyonight" width="49%" alt="Productive Time" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=umairXtreme&theme=tokyonight" width="49%" alt="Repos per Language" />
+  </p>
 
-### 📊 Core Statistics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairXtreme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umairXtreme&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairXtreme&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=umairXtreme&theme=tokyonight" width="49%" alt="Stats Overview" />
-</p>
+  ### 📊 Core Statistics
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=umairXtreme&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairXtreme&layout=compact&theme=tokyonight&hide_border=true&langs_count=20" width="49%" alt="Top Languages" />
+  </p>
+  <p align="center">
+    <img src="https://streak-stats.demolab.com/?user=umairXtreme&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
+  </p>
 
 </div>
 
